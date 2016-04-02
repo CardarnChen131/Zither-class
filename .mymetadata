@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Zither_Lesson"
+  id="myeclipse.1459611294314"
+  context-root="/Zither_Lesson"
+  j2ee-spec="5.0"
+  archive="Zither_Lesson.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
